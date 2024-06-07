@@ -36,8 +36,8 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Yuke-Xie-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -48,16 +48,16 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : yukexmike
   lastfm           : # Username
-  linkedin         : yuke-xie
+  linkedin         : yuke-xie-b042251b0
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
