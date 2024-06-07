@@ -8,7 +8,8 @@ redirect_from:
   
 ---
 ## About me
-*Ni-hao, nay-hoh, Hello, Bonjour, Hallo.* My name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris - PSL, and I am also a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
+<!-- *Ni-hao, nay-hoh, Hello, Bonjour, Hallo.*  -->
+Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris - PSL, and I am also a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
 
 ✉:  [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
 
@@ -49,6 +50,7 @@ Deep Generative Models for Stochastic Geophysical Imaging and Uncertainty Quanti
 Posterior sampling methods using Bayesian deep generative prior, [Doctoral Conference AI for The Sciences](https://psl.eu/en/events/doctoral-conference-ai-sciences), Paris Dauphine University, 15 May 2024 - 16 May 2024, Paris
 
 
+![QR](../images/qrcode.png)
 
 
 
