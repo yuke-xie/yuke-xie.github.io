@@ -10,7 +10,7 @@ redirect_from:
 ## About me
 I am currently a PhD student in Geophysics at Mines Paris - PSL, and I am a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
 
-✉️:  [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
+✉:  [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
 
 ## Researchs
 * Foster, J., Ericksen, T., Thomas, B., Avery, J., **Xie, Y**., & Knogl, R. (2024). Augmenting Tsunami Detection with a Ship-based GNSS Network. *EGU General Assembly 2024*. doi: [10.5194/egusphere-egu24-5841](https://doi.org/10.5194/egusphere-egu24-5841)
