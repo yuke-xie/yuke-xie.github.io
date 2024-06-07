@@ -7,13 +7,26 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-A brief introduction about yourself. Mention your current position, research interests, and any relevant background information.
+I am a PhD student in Geophysics at PSL Research University, part of the AI4theSciences program. I am currently a European Marie Curie PhD fellow under the Horizon 2020 MSCA Cofund Program focusing on Artificial Intelligence for Sciences.
 
-## Education
-- **PhD in Geophysics**, PSL Research University, AI4theSciences, 2022 - 2025
+
+## Education and Experience
+- **PhD in Geophysics**, PSL Research University, AI4theSciences, Oct 2022 - Present
+  - Mines Paris, Fontainebleau, Île-de-France, France
+  - Computational inverse problem, stochastic full waveform inversion, deep generative models, variational Bayesian inference
   - European Marie Curie PhD fellow | Horizon 2020 MSCA Cofund Program Artificial Intelligence for Sciences
+- **Research Intern**, Centre national de la recherche scientifique, Feb 2022 - Aug 2022
+  - LAMSADE UMR CNRS Research Center, Paris, France
 - **Master of Engineering, GeoEngine**, University of Stuttgart, 2019 - 2022
+  - Master Thesis Student, Sep 2021 - Mar 2022
+    - Best master thesis award F2GeoS of year 2023
+  - Student Research Assistant, Aug 2020 - Nov 2021
 - **Bachelor of Engineering, Geodesy and Remote Sensing**, Wuhan University, 2015 - 2019
+
+## Research Interests
+- Artificial Intelligence in Geophysics
+- Subsurface Imaging
+- Remote Sensing
 
 
 
