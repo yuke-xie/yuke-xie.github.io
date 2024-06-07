@@ -27,7 +27,7 @@ author:
   bio              : "2nd year PhD student in Geophysics🌏〽️ and a cat parent🐱🐈"
   location         : "Paris"
   employer         : "Mines, PSL Research University"
-  uri              : "https://yuke-xie.github.io"
+  uri              : #"https://yuke-xie.github.io"
   email            : #"yuke.xie@minesparis.psl.eu" 
 
   # Academic websites
