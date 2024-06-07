@@ -6,7 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About Me
+A brief introduction about yourself. Mention your current position, research interests, and any relevant background information.
 
+## Education
+- **PhD in Geophysics**, PSL Research University, AI4theSciences, 2022 - 2025
+  - European Marie Curie PhD fellow | Horizon 2020 MSCA Cofund Program Artificial Intelligence for Sciences
+- **Master of Engineering, GeoEngine**, University of Stuttgart, 2019 - 2022
+- **Bachelor of Engineering, Geodesy and Remote Sensing**, Wuhan University, 2015 - 2019
 
 
 
