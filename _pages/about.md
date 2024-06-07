@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: #"Yuke Xie"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
   
 ---
-## Welcome
+## About me
 I am currently a PhD student in Geophysics at Mines Paris - PSL, and I am a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
 
 ## Researchs
