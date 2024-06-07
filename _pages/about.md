@@ -17,7 +17,7 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 ## Education
 
 - **PhD student in Geophysics** <br /> Oct 2022 - Present <br />*Mines Paris-PSL, Fontainebleau, France*
-  - Computational inverse problem, stochastic full waveform inversion, deep generative models, variational Bayesian inference
+  - Inverse problem, stochastic full waveform inversion, deep generative models, variational Bayesian inference
   - European Marie Curie PhD fellow, Horizon 2020 MSCA-PSL Cofund Program AI4theSciences
 - **Research Intern** <br /> Feb 2022 - Aug 2022 <br />*CNRS, Dauphine-PSL, Paris, France*
   - Internship at LAMSADE UMR CNRS Research Center
@@ -32,24 +32,28 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 - Geodesy, Earth Observation, GNSS
 - Cycling
 
-## Researchs
-* Foster, J., Ericksen, T., Thomas, B., Avery, J., **Xie, Y**., & Knogl, R. (2024). Augmenting Tsunami Detection with a Ship-based GNSS Network. *EGU General Assembly 2024*. doi: [10.5194/egusphere-egu24-5841](https://doi.org/10.5194/egusphere-egu24-5841)
+## Proceedings
+**Xie, Y.**, Chauris, H., & Desassis, N. (2024). Deep Generative Models for Stochastic Seismic Imaging and Uncertainty Quantification. *85th EAGE Annual Conference & Exhibition*. doi: [10.3997/2214-4609.202410495](https://doi.org/10.3997/2214-4609.202410495)
 
-* Kougkoulos, I., **Xie, Y.**, Merad, M., & Cook, S. J. (2023). Choosing the appropriate spatial scale for flash flood risk assessments in Mediterranean mountain watersheds. *EGU General Assembly 2023*. doi: [10.5194/egusphere-egu23-4320](https://doi.org/10.5194/egusphere-egu23-4320)
 
-* **Xie, Y.**, Foster, J., Ravanelli, M., & Crespi, M. (2022). Ship-based GNSS ionospheric observations for the detection of tsunamis with deep learning. *EGU General Assembly 2022*. doi: [10.5194/egusphere-egu22-405](https://doi.org/10.5194/egusphere-egu22-405)
+Foster, J., Ericksen, T., Thomas, B., Avery, J., **Xie, Y**., & Knogl, R. (2024). Augmenting Tsunami Detection with a Ship-based GNSS Network. *EGU General Assembly 2024*. doi: [10.5194/egusphere-egu24-5841](https://doi.org/10.5194/egusphere-egu24-5841)
+
+Kougkoulos, I., **Xie, Y.**, Merad, M., & Cook, S. J. (2023). Choosing the appropriate spatial scale for flash flood risk assessments in Mediterranean mountain watersheds. *EGU General Assembly 2023*. doi: [10.5194/egusphere-egu23-4320](https://doi.org/10.5194/egusphere-egu23-4320)
+
+**Xie, Y.**, Foster, J., Ravanelli, M., & Crespi, M. (2022). Ship-based GNSS ionospheric observations for the detection of tsunamis with deep learning. *EGU General Assembly 2022*. doi: [10.5194/egusphere-egu22-405](https://doi.org/10.5194/egusphere-egu22-405)
 
 <!-- * Zhang, Y., Yu, H., Auriol, J., & **P., M.** (2023). [Mean-square Exponential Stabilization of Mixed-autonomy Traffic PDE System.](https://arxiv.org/abs/2310.15547) *arXiv preprint arXiv:2310.15547.* -->
 
 
 ## Talks
-[Poster] Uncertainty quantification in computational inverse problem using deep generative models, [Deep Learning for Science Day (JDLS)](https://jdls-2024.sciencesconf.org/), French National Centre for Scientific Research (CNRS), May 2024, Paris
+**[[Poster](https://drive.google.com/file/d/1XQ9m5PCRGygwjreW-9dQirl6kQ8M7XRI/view?usp=sharing)]** Uncertainty quantification in computational inverse problem using deep generative models, [Deep Learning for Science Day (JDLS)](https://jdls-2024.sciencesconf.org/), French National Centre for Scientific Research (CNRS), May 2024, Paris, France
 
-Deep Generative Models for Stochastic Geophysical Imaging and Uncertainty Quantification, [Generative models in artificial intelligence: Theory, learning and environmental applications](https://reseau-resste.mathnum.inrae.fr/node/30), RESSTE network, May 2024, Paris
+**[[Presentation](https://cloud.minesparis.psl.eu/index.php/s/Cj5DPctIQNcHQUO)]** Deep Generative Models for Stochastic Geophysical Imaging and Uncertainty Quantification, [Generative models in artificial intelligence: Theory, learning and environmental applications](https://reseau-resste.mathnum.inrae.fr/node/30), RESSTE network, 22 May 2024, Paris, France
 
-Posterior sampling methods using Bayesian deep generative prior, [Doctoral Conference AI for The Sciences](https://psl.eu/en/events/doctoral-conference-ai-sciences), Paris Dauphine University, 15 May 2024 - 16 May 2024, Paris
+**[[Abstract](https://psl.eu/sites/default/files/2024-05/Book%20of%20abstracts%20-%20light.pdf)]** Posterior sampling methods using Bayesian deep generative prior, [Doctoral Conference AI for The Sciences](https://psl.eu/en/events/doctoral-conference-ai-sciences), Paris Dauphine University, 15 May 2024 - 16 May 2024, Paris, France
 
 
+>This site:
 ![QR](../images/qrcode.png)
 
 
