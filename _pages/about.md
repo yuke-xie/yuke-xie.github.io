@@ -8,7 +8,7 @@ redirect_from:
   
 ---
 ## About Me
-I am a PhD student in Geophysics at PSL Research University, part of the AI4theSciences program. I am currently a European Marie Curie PhD fellow under the Horizon 2020 MSCA Cofund Program focusing on Artificial Intelligence for Sciences.
+I am currently a PhD student in Geophysics at Mines Paris - PSL University , I am a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
 
 ## Contact
 - **Email:** [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
