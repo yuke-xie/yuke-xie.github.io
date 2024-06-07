@@ -8,9 +8,28 @@ redirect_from:
   
 ---
 ## About me
-I am currently a PhD student in Geophysics at Mines Paris - PSL, and I am a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
+*Ni-hao, nay-hoh, Hello, Bonjour, Hallo.* My name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris - PSL, and I am also a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
 
 ✉:  [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
+
+
+## Education
+
+- **PhD student in Geophysics** <br /> Oct 2022 - Present <br />*Mines Paris-PSL, Fontainebleau, France*
+  - Computational inverse problem, stochastic full waveform inversion, deep generative models, variational Bayesian inference
+  - European Marie Curie PhD fellow, Horizon 2020 MSCA-PSL Cofund Program AI4theSciences
+- **Research Intern** <br /> Feb 2022 - Aug 2022 <br />*CNRS, Dauphine-PSL, Paris, France*
+  - Internship at LAMSADE UMR CNRS Research Center
+- **Master of Engineering, GeoEngine**<br /> 2019 - 2022  <br /> *University of Stuttgart, Stuttgart, Germany*
+  - Best master thesis award F2GeoS of year 2023
+  - Student Assistant (Aug 2020 - Nov 2021)
+-  **Bachelor of Engineering, Geodesy**<br /> 2015 - 2019  <br /> *Wuhan University, Wuhan, China*
+
+## Interests
+- Geophysics, Stochastic full waveform inversion, (Variational) Bayesian inference
+- Deep Learning, Inverse problem, Deep generative models, Machine Learning Statistics
+- Geodesy, Earth Observation, GNSS
+- Cycling
 
 ## Researchs
 * Foster, J., Ericksen, T., Thomas, B., Avery, J., **Xie, Y**., & Knogl, R. (2024). Augmenting Tsunami Detection with a Ship-based GNSS Network. *EGU General Assembly 2024*. doi: [10.5194/egusphere-egu24-5841](https://doi.org/10.5194/egusphere-egu24-5841)
@@ -22,22 +41,12 @@ I am currently a PhD student in Geophysics at Mines Paris - PSL, and I am a part
 <!-- * Zhang, Y., Yu, H., Auriol, J., & **P., M.** (2023). [Mean-square Exponential Stabilization of Mixed-autonomy Traffic PDE System.](https://arxiv.org/abs/2310.15547) *arXiv preprint arXiv:2310.15547.* -->
 
 
-## Education
-- **PhD student in Geophysics**, Mines Paris-PSL, Oct 2022 - Present, Fontainebleau France
-  - Computational inverse problem, stochastic full waveform inversion, deep generative models, variational Bayesian inference
-  - European Marie Curie PhD fellow, Horizon 2020 MSCA-PSL Cofund Program AI4theSciences
-- **Research Intern**, CNRS, Dauphine-PSL, Feb 2022 - Aug 2022, Paris, France
-  - LAMSADE UMR CNRS Research Center
-- **Master of Engineering, GeoEngine**, University of Stuttgart, 2019 - 2022, Stuttgart, Germany
-  - Best master thesis award F2GeoS of year 2023
-  - Student Assistant (Aug 2020 - Nov 2021)
-- **Bachelor of Engineering, Geodesy and Remote Sensing**, Wuhan University, 2015 - 2019, Wuhan, China
+## Talks
+[Poster] Uncertainty quantification in computational inverse problem using deep generative models, [Deep Learning for Science Day (JDLS)](https://jdls-2024.sciencesconf.org/), French National Centre for Scientific Research (CNRS), May 2024, Paris
 
-## Research Interests
-- Geophysics, Stochastic full waveform inversion, (Variational) Bayesian inference
-- Deep Learning, Inverse problem, Deep generative models, Machine Learning Statistics
-- Geodesy, Earth Observation, GNSS
+Deep Generative Models for Stochastic Geophysical Imaging and Uncertainty Quantification, [Generative models in artificial intelligence: Theory, learning and environmental applications](https://reseau-resste.mathnum.inrae.fr/node/30), RESSTE network, May 2024, Paris
 
+Posterior sampling methods using Bayesian deep generative prior, [Doctoral Conference AI for The Sciences](https://psl.eu/en/events/doctoral-conference-ai-sciences), Paris Dauphine University, 15 May 2024 - 16 May 2024, Paris
 
 
 
