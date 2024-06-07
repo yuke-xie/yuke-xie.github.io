@@ -1,19 +1,17 @@
 ---
 permalink: /
-title: "Yuke Xie"
+title: #"Yuke Xie"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
   
 ---
-
-## Contact
-- **Email:** [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
-
 ## About Me
 I am a PhD student in Geophysics at PSL Research University, part of the AI4theSciences program. I am currently a European Marie Curie PhD fellow under the Horizon 2020 MSCA Cofund Program focusing on Artificial Intelligence for Sciences.
 
+## Contact
+- **Email:** [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
 
 ## Education and Experience
 - **PhD student Geophysics**, Mines Paris-PSL, Oct 2022 - Present, Fontainebleau France
