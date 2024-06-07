@@ -10,19 +10,22 @@ redirect_from:
 ## About Me
 I am currently a PhD student in Geophysics at Mines Paris - PSL University , I am a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
 
+<!-- ## Preprint
+* Zhang, Y., Yu, H., Auriol, J., & **P., M.** (2023). [Mean-square Exponential Stabilization of Mixed-autonomy Traffic PDE System.](https://arxiv.org/abs/2310.15547) *arXiv preprint arXiv:2310.15547.* -->
+
 ## Contact
-- **Email:** [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
+[yuke.xie[at]minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
 
 ## Education and Experience
-- **PhD student Geophysics**, Mines Paris-PSL, Oct 2022 - Present, Fontainebleau France
+- **PhD student in Geophysics**, Mines Paris-PSL, Oct 2022 - Present, Fontainebleau France
   - Computational inverse problem, stochastic full waveform inversion, deep generative models, variational Bayesian inference
   - European Marie Curie PhD fellow, Horizon 2020 MSCA-PSL Cofund Program AI4theSciences
 - **Research Intern**, CNRS, Dauphine-PSL, Feb 2022 - Aug 2022, Paris, France
   - LAMSADE UMR CNRS Research Center
-- **Master of Engineering, GeoEngine**, University of Stuttgart, 2019 - 2022
+- **Master of Engineering, GeoEngine**, University of Stuttgart, 2019 - 2022, Stuttgart, Germany
   - Best master thesis award F2GeoS of year 2023
-  - Student Research Assistant (Aug 2020 - Nov 2021)
-- **Bachelor of Engineering, Geodesy and Remote Sensing**, Wuhan University, 2015 - 2019
+  - Student Assistant (Aug 2020 - Nov 2021)
+- **Bachelor of Engineering, Geodesy and Remote Sensing**, Wuhan University, 2015 - 2019, Wuhan, China
 
 ## Research Interests
 - Geophysics, Stochastic full waveform inversion, (Variational) Bayesian inference
