@@ -7,16 +7,22 @@ redirect_from:
   - /about.html
   
 ---
-## About Me
-I am currently a PhD student in Geophysics at Mines Paris - PSL University , I am a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
+## Welcome
+I am currently a PhD student in Geophysics at Mines Paris - PSL, and I am a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
 
-<!-- ## Preprint
-* Zhang, Y., Yu, H., Auriol, J., & **P., M.** (2023). [Mean-square Exponential Stabilization of Mixed-autonomy Traffic PDE System.](https://arxiv.org/abs/2310.15547) *arXiv preprint arXiv:2310.15547.* -->
+## Researchs
+* Foster, J., Ericksen, T., Thomas, B., Avery, J., **Xie, Y**., & Knogl, R. (2024). Augmenting Tsunami Detection with a Ship-based GNSS Network. *EGU General Assembly 2024*. doi: [10.5194/egusphere-egu24-5841](https://doi.org/10.5194/egusphere-egu24-5841)
+
+* Kougkoulos, I., **Xie, Y.**, Merad, M., & Cook, S. J. (2023). Choosing the appropriate spatial scale for flash flood risk assessments in Mediterranean mountain watersheds. *EGU General Assembly 2023*. doi: [10.5194/egusphere-egu23-4320](https://doi.org/10.5194/egusphere-egu23-4320)
+
+* **Xie, Y.**, Foster, J., Ravanelli, M., & Crespi, M. (2022). Ship-based GNSS ionospheric observations for the detection of tsunamis with deep learning. *EGU General Assembly 2022*. doi: [10.5194/egusphere-egu22-405](https://doi.org/10.5194/egusphere-egu22-405)
+
+<!-- * Zhang, Y., Yu, H., Auriol, J., & **P., M.** (2023). [Mean-square Exponential Stabilization of Mixed-autonomy Traffic PDE System.](https://arxiv.org/abs/2310.15547) *arXiv preprint arXiv:2310.15547.* -->
 
 ## Contact
-[yuke.xie[at]minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
+[yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
 
-## Education and Experience
+## Education
 - **PhD student in Geophysics**, Mines Paris-PSL, Oct 2022 - Present, Fontainebleau France
   - Computational inverse problem, stochastic full waveform inversion, deep generative models, variational Bayesian inference
   - European Marie Curie PhD fellow, Horizon 2020 MSCA-PSL Cofund Program AI4theSciences
