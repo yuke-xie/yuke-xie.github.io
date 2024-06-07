@@ -5,7 +5,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  
 ---
+
+## Contact
+- **Email:** [your.xie@minesparis.psl.eu](mailto:your.xie@minesparis.psl.eu])
+
 ## About Me
 I am a PhD student in Geophysics at PSL Research University, part of the AI4theSciences program. I am currently a European Marie Curie PhD fellow under the Horizon 2020 MSCA Cofund Program focusing on Artificial Intelligence for Sciences.
 
@@ -22,8 +27,8 @@ I am a PhD student in Geophysics at PSL Research University, part of the AI4theS
 - **Bachelor of Engineering, Geodesy and Remote Sensing**, Wuhan University, 2015 - 2019
 
 ## Research Interests
-- Deep Learning, Inverse problem, Deep generative models, Machine Learning Statistics
 - Geophysics, Stochastic full waveform inversion, (Variational) Bayesian inference
+- Deep Learning, Inverse problem, Deep generative models, Machine Learning Statistics
 - Geodesy, Earth Observation, GNSS
 
 
