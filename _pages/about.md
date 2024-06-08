@@ -58,14 +58,14 @@ Kougkoulos, I., **Xie, Y.**, Merad, M., & Cook, S. J. (2023). Choosing the appro
 **[[Abstract](https://psl.eu/sites/default/files/2024-05/Book%20of%20abstracts%20-%20light.pdf)]** Posterior sampling methods using Bayesian deep generative prior, [Doctoral Conference AI for The Sciences](https://psl.eu/en/events/doctoral-conference-ai-sciences), Paris Dauphine University, 15 May 2024 - 16 May 2024, Paris, France
 
 
->This site:
+>This site
 <img src="../images/qrcode.png" width="300" height="300">
 <!-- ![QR](../images/qrcode.png) -->
 
 <!-- >WeChat:
 ![WeChat](../images/wechat.JPG) -->
 
->WeChat:
+>WeChat
 <img src="../images/wechat.JPG" width="300" height="300">
 
 
