@@ -59,10 +59,14 @@ Kougkoulos, I., **Xie, Y.**, Merad, M., & Cook, S. J. (2023). Choosing the appro
 
 
 >This site:
-![QR](../images/qrcode.png)
+<img src="../images/qrcode.png" width="300" height="300">
+<!-- ![QR](../images/qrcode.png) -->
+
+<!-- >WeChat:
+![WeChat](../images/wechat.JPG) -->
 
 >WeChat:
-![WeChat](../images/wechat.JPG)
+<img src="../images/wechat.JPG" width="300" height="300">
 
 
 
