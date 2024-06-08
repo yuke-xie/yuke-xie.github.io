@@ -8,9 +8,15 @@ redirect_from:
   
 ---
 ## About me
-*Ni-hao, nay-hoh, Hello, Bonjour, Hallo.* My name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris - PSL, and I am also a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
+<!-- *Ni-hao, nay-hoh, Hello, Bonjour, Hallo. -->
+
+Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris - PSL, and I am also a part of the Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
 
 ✉:  [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
+
+<img src="../images/linkedin.png" width="16" height="16"> [Linkedin](https://www.linkedin.com/in/yuke-xie-b042251b0)
+
+<img src="../images/github.svg" width="16" height="16"> [Github](hhttps://github.com/yuke-xie)
 
 
 ## Education
@@ -54,6 +60,9 @@ Kougkoulos, I., **Xie, Y.**, Merad, M., & Cook, S. J. (2023). Choosing the appro
 
 >This site:
 ![QR](../images/qrcode.png)
+
+>WeChat:
+![WeChat](../images/wechat.jpg)
 
 
 
