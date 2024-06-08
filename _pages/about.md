@@ -16,7 +16,7 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 
 <img src="../images/linkedin.png" width="16" height="16"> [Linkedin](https://www.linkedin.com/in/yuke-xie-b042251b0)
 
-<img src="../images/github.svg" width="16" height="16"> [Github](hhttps://github.com/yuke-xie)
+<img src="../images/github.svg" width="16" height="16"> [Github](https://github.com/yuke-xie)
 
 
 ## Education
