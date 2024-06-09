@@ -32,9 +32,9 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 -  **Bachelor of Engineering, Geodesy**<br /> 2015 - 2019  <br /> *Wuhan University, Wuhan, China*
 
 ## Interests
-- Geophysics, Stochastic full waveform inversion, (Variational) Bayesian inference
-- Deep Learning, Inverse problem, Deep generative models, Machine Learning Statistics
-- Geodesy, Earth Observation, GNSS
+- Geophysics, Geostatistics, Stochastic seismic imaging, (Variational) Bayesian inference
+- Deep Learning, Inverse problem, Deep generative models, Machine learning statistics
+- Earth Observation, GNSS
 - Cycling
 
 ## Proceedings
