@@ -18,6 +18,9 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 
 <img src="../images/github.svg" width="16" height="16"> [Github](https://github.com/yuke-xie)
 
+## Preprint
+**Xie, Y.**, Chauris, H., & Desassis, N. (2024). Stochastic full waveform inversion with deep generative prior for uncertainty quantification. *arXiv preprint [arXiv:2406.04859](https://arxiv.org/abs/2406.04859)*.
+
 
 ## Education
 
