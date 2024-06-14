@@ -12,11 +12,15 @@ redirect_from:
 
 Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris - PSL, and I am also a part of the EU Horizon 2020 MSCA Cofund Program AI4theSciences at PSL Reasearch University.
 
-✉:  [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
+✉  [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
+
+<img src="../images/research_gate.png" width="16" height="16"> [ResearchGate](https://www.researchgate.net/profile/Yuke-Xie-2)
 
 <img src="../images/linkedin.png" width="16" height="16"> [Linkedin](https://www.linkedin.com/in/yuke-xie-b042251b0)
 
 <img src="../images/github.svg" width="16" height="16"> [Github](https://github.com/yuke-xie)
+
+
 
 ## Preprint
 **Xie, Y.**, Chauris, H., & Desassis, N. (2024). Stochastic full waveform inversion with deep generative prior for uncertainty quantification. *arXiv preprint [arXiv:2406.04859](https://arxiv.org/abs/2406.04859)*.
@@ -35,7 +39,7 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 -  **Bachelor of Engineering, Geodesy**<br /> 2015 - 2019  <br /> *Wuhan University, Wuhan, China*
 
 ## Interests
-- Geophysics, Geostatistics, Stochastic seismic imaging, (Variational) Bayesian inference
+- Geophysics, Geostatistics, Stochastic FWI, (Variational) Bayesian inference
 - Deep Learning, Inverse problem, Deep generative models, Machine learning statistics
 - Earth Observation, GNSS
 - Cycling
