@@ -15,10 +15,8 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 ✉  [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
 
 <img src="../images/research_gate.png" width="16" height="16"> [ResearchGate](https://www.researchgate.net/profile/Yuke-Xie-2)
-
-<img src="../images/linkedin.png" width="16" height="16"> [Linkedin](https://www.linkedin.com/in/yuke-xie-b042251b0)
-
-<img src="../images/github.svg" width="16" height="16"> [Github](https://github.com/yuke-xie)
+ <img src="../images/linkedin.png" width="16" height="16"> [Linkedin](https://www.linkedin.com/in/yuke-xie-b042251b0)
+ <img src="../images/github.svg" width="16" height="16"> [Github](https://github.com/yuke-xie)
 
 
 
