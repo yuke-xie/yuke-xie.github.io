@@ -30,7 +30,7 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 - **Research Intern** <br /> Feb 2022 - Aug 2022 <br />*CNRS, Dauphine-PSL, Paris, France*
   - Internship at LAMSADE UMR CNRS Research Center
 - **Master of Engineering, GeoEngine**<br /> 2019 - 2022  <br /> *University of Stuttgart, Stuttgart, Germany*
-  - Best master thesis award F2GeoS of year 2023
+  - [Best master thesis award F2GeoS](https://www.f2geos.de/preistraeger.shtml#:~:text=MSc.%20Preistr%C3%A4ger%202023,detection%20of%20tsunami) of year 2023
   - Student Assistant (Aug 2020 - Nov 2021)
 -  **Bachelor of Engineering, Geodesy**<br /> 2015 - 2019  <br /> *Wuhan University, Wuhan, China*
 
