@@ -8,7 +8,8 @@ redirect_from:
   
 ---
 ## About me
-Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris - PSL, and I am also a member of the Horizon 2020-Marie Skłodowska-Curie Actions-COFUND [European program AI4theSciences](https://psl.eu/en/research/major-research-projects/european-programs/ai4thesciences-doctoral-program) at PSL Reasearch University. I love cycling and I'm a Tottenham Hotspur fan. Ni-hao, nay-hoh, Hello, Bonjour, Hallo
+Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris - PSL, and I am also a member of the Horizon 2020-Marie Skłodowska-Curie Actions-COFUND [European program AI4theSciences](https://psl.eu/en/research/major-research-projects/european-programs/ai4thesciences-doctoral-program) at PSL Reasearch University. I'm the parent of a British Shorthair🐱 and I love cycling. 
+<!-- Ni-hao, nay-hoh, Hello, Bonjour, Hallo -->
 
 ✉  [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
 
