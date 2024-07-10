@@ -28,7 +28,7 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 - **PhD student in Geophysics** <br /> Oct 2022 - Present <br />*Mines Paris-PSL, Fontainebleau, France*
   - Inverse problem, stochastic full waveform inversion, deep generative models, variational Bayesian inference
   - European Marie Curie PhD fellow, Horizon 2020 MSCA-PSL Cofund Program AI4theSciences
-- **Research Intern** <br /> Feb 2022 - Aug 2022 <br />*CNRS, Dauphine-PSL, Paris, France*
+- **Research Internship** <br /> Feb 2022 - Aug 2022 <br />*CNRS, Dauphine-PSL, Paris, France*
   - Internship at LAMSADE UMR CNRS Research Center
 - **Master of Engineering, GeoEngine**<br /> 2019 - 2022  <br /> *University of Stuttgart, Stuttgart, Germany*
   - [Best master thesis (MSc. Preisträger 2023) award F2GeoS](https://www.f2geos.de/preistraeger.shtml#:~:text=MSc.%20Preistr%C3%A4ger%202023,detection%20of%20tsunami) of year 2023 
