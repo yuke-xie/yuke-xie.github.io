@@ -8,7 +8,7 @@ redirect_from:
   
 ---
 ## About me
-Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris - PSL, and I am also a member of the Horizon 2020-Marie Skłodowska-Curie Actions-COFUND [European program AI4theSciences](https://psl.eu/en/research/major-research-projects/european-programs/ai4thesciences-doctoral-program) at PSL Reasearch University. I'm the parent of a British Shorthair🐱 and I love cycling. 
+Hello, my name is Yuke from China living in Paris, I am a final (3rd) year PhD student in ML & Geophysics at Mines Paris - PSL, and I am also a member of the Horizon 2020-Marie Skłodowska-Curie Actions-COFUND [European program AI4theSciences](https://psl.eu/en/research/major-research-projects/european-programs/ai4thesciences-doctoral-program) at PSL Reasearch University. I'm the parent of a British Shorthair🐱 and I love sports. 
 <!-- Ni-hao, nay-hoh, Hello, Bonjour, Hallo -->
 
 ✉  [yuke.xie@minesparis.psl.eu](mailto:yuke.xie@minesparis.psl.eu])
@@ -19,8 +19,12 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 
 
 
-## Preprint
-**Xie, Y.**, Chauris, H., & Desassis, N. (2024). Stochastic full waveform inversion with deep generative prior for uncertainty quantification. *arXiv preprint [arXiv:2406.04859](https://arxiv.org/abs/2406.04859)*.
+<!-- ## Preprint
+**Xie, Y.**, Chauris, H., & Desassis, N. (2025). Diffusion prior as a direct regularization term for FWI. *arXiv preprint [arXiv:2506.10141](https://arxiv.org/abs/2506.10141)*.
+
+**Xie, Y.**, Chauris, H., & Desassis, N. (2024). Stochastic full waveform inversion with deep generative prior for uncertainty quantification. *arXiv preprint [arXiv:2406.04859](https://arxiv.org/abs/2406.04859)*. -->
+
+
 
 
 ## Education
@@ -37,14 +41,21 @@ Hello, my name is Yuke, I am a 2nd year PhD student in Geophysics at Mines Paris
 -  **Bachelor of Engineering, Geodesy**<br /> 2015 - 2019  <br /> *Wuhan University, Wuhan, China*
 
 ## Interests
-- Geophysics, Geostatistics, Stochastic FWI, (Variational) Bayesian inference
 - Deep Learning, Inverse problem, Deep generative models, Machine learning statistics
+- Geophysics, Geostatistics, Geoinformatics
 - Earth Observation, GNSS
-- Cycling
+- Sports
 
-## Proceedings
+## Research items
+**Xie, Y.**, Chauris, H., & Desassis, N. (2025). Diffusion prior as a direct regularization term for FWI. *arXiv preprint [arXiv:2506.10141](https://arxiv.org/abs/2506.10141)*.
+
+**Xie, Y.**, Chauris, H., & Desassis, N. (2025). Generative AI Prior and Posterior Sampling for Seismic Imaging. *86th EAGE Annual Conference & Exhibition (Conference Proceedings)*. doi: [10.3997/2214-4609.202510982](https://www.earthdoc.org/content/papers/10.3997/2214-4609.202510982)  
+
+**Xie, Y.**, Chauris, H., & Desassis, N. (2024). Bayesian posterior sampling in non-linear seismic inverse problem using deep generative prior. *AGU Fall Meeting 2024 Poster*. doi: [10.22541/essoar.173655494.46692293](https://essopenarchive.org/users/877735/articles/1257179-bayesian-posterior-sampling-in-non-linear-seismic-inverse-problem-using-deep-generative-prior)
+
+**Xie, Y.**, Chauris, H., & Desassis, N. (2024). Stochastic full waveform inversion with deep generative prior for uncertainty quantification. *arXiv preprint [arXiv:2406.04859](https://arxiv.org/abs/2406.04859)*.
+
 **Xie, Y.**, Chauris, H., & Desassis, N. (2024). Deep Generative Models for Stochastic Seismic Imaging and Uncertainty Quantification. *85th EAGE Annual Conference & Exhibition*. doi: [10.3997/2214-4609.202410495](https://doi.org/10.3997/2214-4609.202410495)
-
 
 Foster, J., Ericksen, T., Thomas, B., Avery, J., **Xie, Y**., & Knogl, R. (2024). Augmenting Tsunami Detection with a Ship-based GNSS Network. *EGU General Assembly 2024*. doi: [10.5194/egusphere-egu24-5841](https://doi.org/10.5194/egusphere-egu24-5841)
 
@@ -56,11 +67,15 @@ Kougkoulos, I., **Xie, Y.**, Merad, M., & Cook, S. J. (2023). Choosing the appro
 
 
 ## Talks
-**[[Poster](https://drive.google.com/file/d/1XQ9m5PCRGygwjreW-9dQirl6kQ8M7XRI/view?usp=sharing)]** Uncertainty quantification in computational inverse problem using deep generative models, [Deep Learning for Science Day (JDLS)](https://jdls-2024.sciencesconf.org/), French National Centre for Scientific Research (CNRS), May 2024, Paris, France
+**[[Poster](https://www.linkedin.com/posts/prairie-institute_dataprogram-doctoral-ai-activity-7312398894674378753-TZVc/)]** Bayesian posterior sampling in non-linear seismic inverse problem using deep generative prior, *Doctoral Conference AI for The Sciences*, 23 May 2025, Mines Paris - PSL, Paris, France
 
-**[[Presentation](https://cloud.minesparis.psl.eu/index.php/s/Cj5DPctIQNcHQUO)]** Deep Generative Models for Stochastic Geophysical Imaging and Uncertainty Quantification, [Generative models in artificial intelligence: Theory, learning and environmental applications](https://reseau-resste.mathnum.inrae.fr/node/30), RESSTE network, 22 May 2024, Paris, France
+**[[Invited talk](https://www.linkedin.com/feed/update/urn:li:activity:7323816696257933312/)]** Generative priors and uncertainty quantification in seismic imaging, *EAGE Local Chapter Paris Webinar*, 15 May 2025, Paris, France
 
-**[[Abstract](https://psl.eu/sites/default/files/2024-05/Book%20of%20abstracts%20-%20light.pdf)]** Posterior sampling methods using Bayesian deep generative prior, [Doctoral Conference AI for The Sciences](https://psl.eu/en/events/doctoral-conference-ai-sciences), Paris Dauphine University, 15 May 2024 - 16 May 2024, Paris, France
+**[[Poster (PDF)](https://drive.google.com/file/d/1XQ9m5PCRGygwjreW-9dQirl6kQ8M7XRI/view?usp=sharing)]** Uncertainty quantification in computational inverse problem using deep generative models, [Deep Learning for Science Day (JDLS)](https://jdls-2024.sciencesconf.org/), French National Centre for Scientific Research (CNRS), May 2024, Paris, France
+
+**[[Presentation (PDF)](https://cloud.minesparis.psl.eu/index.php/s/Cj5DPctIQNcHQUO)]** Deep Generative Models for Stochastic Geophysical Imaging and Uncertainty Quantification, [Generative models in artificial intelligence: Theory, learning and environmental applications](https://reseau-resste.mathnum.inrae.fr/node/30), RESSTE network, 22 May 2024, Paris, France
+
+**[[Abstract (PDF)](https://psl.eu/sites/default/files/2024-05/Book%20of%20abstracts%20-%20light.pdf)]** Posterior sampling methods using Bayesian deep generative prior, [Doctoral Conference AI for The Sciences](https://psl.eu/en/events/doctoral-conference-ai-sciences), Paris Dauphine University, 15 May 2024 - 16 May 2024, Paris, France
 
 
 >This site
