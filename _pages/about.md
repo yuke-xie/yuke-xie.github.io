@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
   
 ---
+*Last updated: 24 September 2025*
+
 ## About me
 Hello, my name is Yuke from China living in Paris, I am a final (3rd) year PhD student in ML & Geophysics at Mines Paris - PSL, and I am also a member of the Horizon 2020-Marie Skłodowska-Curie Actions-COFUND [European program AI4theSciences](https://psl.eu/en/research/major-research-projects/european-programs/ai4thesciences-doctoral-program) at PSL Reasearch University. I'm the parent of a British Shorthair🐱 and I love sports. 
 <!-- Ni-hao, nay-hoh, Hello, Bonjour, Hallo -->
