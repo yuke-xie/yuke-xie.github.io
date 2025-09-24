@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Yuke Xie"
   pronouns         : # example: "she/her"  
-  bio              : "2nd year PhD student in Geophysics 🌏〽️ and parent of Turbo 🐱🐈"
+  bio              : "PhD candidate in ML & Geophysics"
   location         : "Paris"
-  employer         : "Mines, PSL Research University"
+  employer         : "Mines Paris, PSL University"
   uri              : #"https://yuke-xie.github.io"
-  email            : #"yuke.xie@minesparis.psl.eu" 
+  email            : #"yuke.xie0@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=gelBOMwAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
